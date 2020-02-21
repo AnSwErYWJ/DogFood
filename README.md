@@ -18,15 +18,6 @@ This reportory is considered as my own code base and is continuous development, 
 ## Reference
 - [coroutine](https://github.com/AnSwErYWJ/DogFood/tree/master/C/coroutine)中相关代码取自[云风的coroutine](https://github.com/cloudwu/coroutine), 为[chenyahui](https://github.com/chenyahui/AnnotatedCode/tree/master/coroutine)的注释版本
 
-
-## About me
-[![forthebadge](http://forthebadge.com/images/badges/ages-20-30.svg)](http://forthebadge.com)
-- Blog：[http://www.answerywj.com](http://www.answerywj.com)
-- Email：[yuanweijie1993@gmail.com](https://mail.google.com)
-- GitHub：[AnSwErYWJ](https://github.com/AnSwErYWJ)
-- Weibo：[AnSwEr不是答案](http://weibo.com/1783591593)
-- WeChat：
-
 ## Copyright and License
 BSD 2-Clause License
 
