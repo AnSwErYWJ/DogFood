@@ -6,22 +6,13 @@
 ## Description
 This reportory is considered as my own code base and is continuous development, i can't make this more perfect without you!
 
-## Index
-+ [C](https://github.com/AnSwErYWJ/DogFood/tree/master/C)
-> written in POSIX C, support Cross-Platform
-+ [Lua](https://github.com/AnSwErYWJ/DogFood/tree/master/Lua)
-> written in Lua 5.1.5
-+ [Make](https://github.com/AnSwErYWJ/DogFood/tree/master/Make)
-+ [ShellScript](https://github.com/AnSwErYWJ/DogFood/tree/master/ShellScript)
-+ [Template](https://github.com/AnSwErYWJ/DogFood/tree/master/Template)
-
 ## Reference
 - [coroutine](https://github.com/AnSwErYWJ/DogFood/tree/master/C/coroutine)中相关代码取自[云风的coroutine](https://github.com/cloudwu/coroutine), 为[chenyahui](https://github.com/chenyahui/AnnotatedCode/tree/master/coroutine)的注释版本
 
 ## Copyright and License
 BSD 2-Clause License
 
-Copyright (c) 2015-2020, AnSwErYWJ(Weijie Yuan),yuanweijie1993@gmail.com
+Copyright (c) 2015-2021, AnSwErYWJ(Weijie Yuan),yuanweijie1993@gmail.com
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
