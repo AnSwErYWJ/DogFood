@@ -9,4 +9,3 @@ Hi there 👋, AnSwErYWJ means WeiJie Yuan is answer to everything.
 - Blog：[http://www.answerywj.com](http://www.answerywj.com)
 - Email：[yuanweijie1993@gmail.com](https://mail.google.com)
 - Weibo：[AnSwEr不是答案](http://weibo.com/1783591593)
-- Wechat: ![WeChat：](wechat_public_qdode.png)
