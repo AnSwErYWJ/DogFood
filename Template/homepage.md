@@ -11,4 +11,4 @@ Hi there 👋, AnSwErYWJ means WeiJie Yuan is answer to everything.
 - Weibo :computer: : [AnSwEr不是答案](https://weibo.com/1783591593)
 - Wechat Official Accounts :penguin:: [AnSwEr不是答案](https://github.com/AnSwErYWJ/DogFood/blob/master/Template/wechat_public_qdode.png)
 
-![这是访问量计数，如果看不到请刷新](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=AnSwErYWJ.AnSwErYWJ.readme)
+![Visitors Statistics](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=AnSwErYWJ.AnSwErYWJ.readme)
