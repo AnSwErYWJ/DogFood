@@ -12,9 +12,9 @@ summary
 ------
 [![forthebadge](http://forthebadge.com/images/badges/ages-20-30.svg)](http://forthebadge.com)
 - GitHub : [AnSwErYWJ](https://github.com/AnSwErYWJ)
-- Blog : [http://www.answerywj.com](http://www.answerywj.com)
+- Blog : [http://www.answerywj.com](https://www.answerywj.com)
 - Email : [yuanweijie1993@gmail.com](https://mail.google.com)
-- Weibo : [AnSwEr不是答案](http://weibo.com/1783591593)
+- Weibo : [AnSwEr不是答案](https://weibo.com/1783591593)
 
 微信公众号同步更新，微信搜索"AnSwEr不是答案"或者扫描二维码，即可订阅。  
 ![WeChat：](wechat_public_qdode.png)
