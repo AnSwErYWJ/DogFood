@@ -5,8 +5,10 @@
 
 Hi there 👋, AnSwErYWJ means WeiJie Yuan is answer to everything.
 
-- Location: Suzhou, China :cn:
-- Blog：[http://www.answerywj.com](https://www.answerywj.com)
-- Email：[yuanweijie1993@gmail.com](https://mail.google.com)
-- Weibo：[AnSwEr不是答案](https://weibo.com/1783591593)
-- Wechat: [AnSwEr不是答案](https://github.com/AnSwErYWJ/DogFood/blob/master/Template/wechat_public_qdode.png)
+- Location :earth_asia: : Suzhou, China :cn:
+- Blog :pencil: : [http://www.answerywj.com](https://www.answerywj.com) 
+- Email :email: : [yuanweijie1993@gmail.com](https://mail.google.com)
+- Weibo :computer: : [AnSwEr不是答案](https://weibo.com/1783591593)
+- Wechat Official Accounts :penguin:: [AnSwEr不是答案](https://github.com/AnSwErYWJ/DogFood/blob/master/Template/wechat_public_qdode.png)
+
+![这是访问量计数，如果看不到请刷新](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=AnSwErYWJ.AnSwErYWJ.readme)
