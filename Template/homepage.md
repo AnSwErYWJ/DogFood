@@ -6,6 +6,7 @@
 Hi there 👋, AnSwErYWJ means WeiJie Yuan is answer to everything.
 
 - Location: Suzhou, China :cn:
-- Blog：[http://www.answerywj.com](http://www.answerywj.com)
+- Blog：[http://www.answerywj.com](https://www.answerywj.com)
 - Email：[yuanweijie1993@gmail.com](https://mail.google.com)
-- Weibo：[AnSwEr不是答案](http://weibo.com/1783591593)
+- Weibo：[AnSwEr不是答案](https://weibo.com/1783591593)
+- Wechat: [AnSwEr不是答案](https://github.com/AnSwErYWJ/DogFood/blob/master/Template/wechat_public_qdode.png)
