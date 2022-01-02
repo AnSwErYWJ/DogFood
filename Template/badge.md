@@ -9,13 +9,13 @@
         <img src="https://img.shields.io/github/last-commit/AnSwErYWJ/DogFood?color=orange" alt="last-commit">
     </a>
     <a href="#">
+        <img src="https://img.shields.io/github/workflow/status/AnSwErYWJ/DogFood/ci" alt="workflow">
+    </a>
+    <a href="#">
         <img src="https://img.shields.io/github/languages/top/AnSwErYWJ/DogFood?color=ff69b4" alt="languages">
     </a>
     <a href="#">
         <img src="https://img.shields.io/github/repo-size/AnSwErYWJ/DogFood?color=gren" alt="repo-size">
-    </a>
-    <a href="#">
-        <img src="https://img.shields.io/github/workflow/status/AnSwErYWJ/DogFood/ci" alt="workflow">
     </a>
 </p>
 
