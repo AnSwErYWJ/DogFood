@@ -14,6 +14,9 @@
     <a href="#">
         <img src="https://img.shields.io/github/repo-size/AnSwErYWJ/DogFood?color=gren" alt="repo-size">
     </a>
+    <a href="#">
+        <img src="https://img.shields.io/github/workflow/status/AnSwErYWJ/DogFood/ci" alt="workflow">
+    </a>
 </p>
 
 make badge : https://shields.io/.
