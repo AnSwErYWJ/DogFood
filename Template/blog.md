@@ -10,7 +10,6 @@ summary
 ## Reference
 
 ------
-[![forthebadge](http://forthebadge.com/images/badges/ages-20-30.svg)](http://forthebadge.com)
 - GitHub : [AnSwErYWJ](https://github.com/AnSwErYWJ)
 - Blog : [https://www.answerywj.com](https://www.answerywj.com)
 - Email : [yuanweijie1993@gmail.com](https://mail.google.com)

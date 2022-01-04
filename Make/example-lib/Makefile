@@ -17,6 +17,7 @@ WEL_A_TARGET := ./libwelcome.a
 IMP_TARGET := ./test-implicit
 EX_TARGET := ./test-explicit
 STA_TARGET := ./test-sta
+ALL_TARGET := $(WEL_SO_TARGET) $(WEL_A_TARGET) $(IMP_TARGET) $(EX_TARGET) $(STA_TARGET)
 
 CC := gcc
 PLUS := g++ # 可以链接C++库
@@ -73,4 +74,4 @@ $(rely): $(ALL_SRC)
 -include $(rely)
 
 clean:
-	$(RM) $(rely) $(tmp) $(ALL_OBJS)
+	$(RM) $(rely) $(tmp) $(ALL_OBJS) $(ALL_TARGET)

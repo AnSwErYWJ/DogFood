@@ -2,7 +2,7 @@
 # watch program rss (only one program)
 
 if [ $# -ne 1 ];then
-    echo -e "Usage: sh $0 Name"
+    echo -e "Usage: sh $0 processe"
     exit
 fi
 

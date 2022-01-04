@@ -1,4 +1,7 @@
 #!/bin/bash
+
+## list files in current dir.
+
 for target in $(ls)
 do
     if [ -f $target ];then
