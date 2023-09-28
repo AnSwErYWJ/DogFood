@@ -1,16 +1,5 @@
-/*************************************************************************
-	> File Name: typeof.h
-	> Author: weijie.yuan
-	> Mail: weijie.yuan@aispeech.com
-	> Created Time: 2022年04月02日 星期六 15时02分08秒
- ************************************************************************/
-
-#ifndef __TYPEOF__H
-#define __TYPEOF__H
-
-#ifdef __cplusplus
-extern "C" {
-#endif
+#ifndef __CHECK__H
+#define __CHECK__H
 
 /*
  * 利用 typeof 关键字进行变量与函数类型检查，若不匹配，编译时会有 warning 信息。
@@ -55,9 +44,5 @@ extern "C" {
 ({  typeof(type) __tmp = function; \
     (void)__tmp; \
 })
-
-#ifdef __cplusplus
-}
-#endif
 
 #endif
