@@ -1,10 +1,3 @@
-/*
- * @Author: weijie.yuan 
- * @Date: 2018-02-26 14:42:36 
- * @Last Modified by: weijie.yuan
- * @Last Modified time: 2018-02-26 15:23:34
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>

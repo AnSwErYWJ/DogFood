@@ -1,5 +1,5 @@
-#ifndef __CHECK__H
-#define __CHECK__H
+#ifndef __TYPECHECK__H
+#define __TYPECHECK__H
 
 /*
  * 利用 typeof 关键字进行变量与函数类型检查，若不匹配，编译时会有 warning 信息。

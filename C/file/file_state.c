@@ -1,10 +1,3 @@
-/*************************************************************************
-	> File Name: file_is_exist.c
-	> Author: weijie.yuan
-	> Mail: 
-	> Created Time: Mon 11 Jul 2016 09:49:18 AM CST
- ************************************************************************/
-
 #include<stdio.h>
 #include<stdlib.h>
 #include<unistd.h>

@@ -1,10 +1,3 @@
-/*************************************************************************
-> File Name: client.c
-> Author: WeiJieYuan
-> Mail: 
-> Created Time: Fri 11 Mar 2016 09:18:42 AM CST
-************************************************************************/
-
 #include<stdio.h>
 #include<stdlib.h>
 #include<sys/socket.h>

@@ -1,7 +1,7 @@
 #ifndef __DEBUG__H
 #define __DEBUG__H
 
-// complie debug
+// compile debug
 #warning this is bug
 #error this is bug
 

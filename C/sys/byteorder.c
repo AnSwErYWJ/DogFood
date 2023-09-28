@@ -1,10 +1,3 @@
-/*************************************************************************
-	> File Name: host_byte_order.c
-	> Author: weijie.yuan
-	> Mail: yuanweijie1993@gmail.com
-	> Created Time: Wed 07 Dec 2016 09:23:35 AM CST
- ************************************************************************/
-
 /*
  * judge host byteorder
  */

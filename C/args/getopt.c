@@ -1,10 +1,3 @@
-/*************************************************************************
-	> File Name: getopt.c
-	> Author: weijie.yuan
-	> Mail: yuanweijie1993@gmail.com
-	> Created Time: Mon 06 Feb 2017 11:55:40 AM CST
- ************************************************************************/
-
 //references: http://blog.csdn.net/cashey1991/article/details/7942809
 
 #include <stdio.h>

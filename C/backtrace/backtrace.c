@@ -1,16 +1,9 @@
-/*************************************************************************
-> File Name: backtrace.h
-> Author: weijie.yuan
-> Mail: yuanweijie1993@gmail.com
-> Created Time: Tue 11 Apr 2017 09:31:34 PM CST
-************************************************************************/
-
-#ifndef _BRACKTRACE_H
-#define _BRACKTRACE_H
+// gcc -g -rdynamic backtrace.c
 
 #include <stdio.h>
 #include <stdlib.h>
 #include <execinfo.h>
+#include <signal.h>
 
 /* stack's max depth to print */
 #define DUMP_STACK_DEPTH_MAX 20
@@ -45,4 +38,40 @@
             \
         } while(0)
 
-#endif
+
+
+void two()
+{
+    BACKTRACE();
+}
+
+void one()
+{
+    two();
+}
+
+void signal_handler(int sig)
+{
+    switch(sig)
+    {
+        case SIGSEGV: // segmentation fault
+        case SIGFPE: // errnoeous arithmetic operation
+        case SIGBUS: // bus error
+            BACKTRACE();
+            exit(EXIT_FAILURE);
+            break;
+        default:
+            break;
+    }
+}
+
+int main(int argc, char **argv)
+{
+    signal(SIGSEGV, signal_handler);
+    signal(SIGFPE, signal_handler);
+    signal(SIGBUS, signal_handler);
+
+    one();
+    
+    return 0;
+}

@@ -1,10 +1,3 @@
-/*************************************************************************
-	> File Name: file_size.c
-	> Author: weijie.yuan
-	> Mail: yuanweijie1993@gmail.com
-	> Created Time: Wed 04 Jan 2017 09:38:17 AM CST
- ************************************************************************/
-
 #include <stdio.h>
 #include <sys/stat.h>
 

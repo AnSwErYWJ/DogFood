@@ -1,10 +1,3 @@
---[[
-	> File Name: module.lua
-	> Author: weijie.yuan
-	> Mail: yuanweijie1993@gmail.com
-	> Created Time: Tue 23 May 2017 02:39:56 PM CST
---]]
-
 local _M = {}
 
 _M._VERSION = '1.0'

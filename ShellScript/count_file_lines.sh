@@ -5,5 +5,6 @@ if (($# != 1));then
     exit
 fi
 
-echo -n "lines:"
-awk 'END{ print NR }' $1
+lines=`awk 'END{ print NR }' $1`
+
+echo -e $0" has "${lines}" lines."

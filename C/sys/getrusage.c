@@ -1,10 +1,3 @@
-/*************************************************************************
-	> File Name: getrusage.c
-	> Author: weijie.yuan
-	> Mail: yuanweijie1993@gmail.com
-	> Created Time: Wed 23 Jun 2021 02:48:03 PM CST
- ************************************************************************/
-
 #include <stdio.h>
 
 /* include for getrusage */

@@ -24,5 +24,5 @@ void print_log(const char level, const char *fmt, ...)
 
     va_end(ap);
 
-    printf("[%c][%s] File:%s,Line:%d,Function:%s ## %s\n",level,__TIME__,__FILE__,__LINE__,__func__,va_buf);
+    printf("[%c][%s] File:%s,Line:%d,Function:%s ## %s",level,__TIME__,__FILE__,__LINE__,__func__,va_buf);
 }

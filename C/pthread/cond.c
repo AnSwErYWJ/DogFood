@@ -1,10 +1,3 @@
-/*************************************************************************
-	> File Name: t_cond.c
-	> Author: weijie.yuan
-	> Mail: yuanweijie1993@gmail.com
-	> Created Time: Tue 12 Dec 2017 08:39:49 PM CST
- ************************************************************************/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
